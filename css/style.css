@@ -1,0 +1,45 @@
+@import url("components/images.css");
+
+h1 {
+    text-align: center;
+    color: rgb(20, 20, 193);
+   background-color: rgb(197, 12, 12);
+}
+
+.actu {
+    background-color: red;
+    border-radius: 20px;
+    padding: Opx;
+    color: white;
+}
+
+.aragon {
+    color: black;
+    text-align: center;
+    background-color: beige;
+    padding: 6;
+    border-radius: 30px;
+}
+.palmares {
+    background-color: red;
+    border-radius: 20px;
+    padding: Opx;
+    color: white;
+}
+.pal {
+    color: black;
+    text-align: center;
+    background-color: beige;
+    padding: 6;
+    border-radius: 30px;
+    
+}
+.rivalite {
+    background-color: rgb(240, 236, 3);
+    border-radius: 600px;
+    padding: 10px;
+    color: rgb(254, 7, 7);
+    text-align: center;
+
+}
+
